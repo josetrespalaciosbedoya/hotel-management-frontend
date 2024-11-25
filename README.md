@@ -1,20 +1,8 @@
-# Hotel Management - Frontend
+# React + Vite
 
-Este repositorio contiene la interfaz de usuario para el sistema de gestión hotelera.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Tecnologías
+Currently, two official plugins are available:
 
-- React
-- Material UI
-
-## Características principales
-
-- Interfaz responsiva diseñada para portátiles de 13 y 15 pulgadas.
-- Compatible con navegadores Firefox y Chrome.
-- Consumo de API RESTful para gestión de hoteles y habitaciones.
-
-## Cómo usar este proyecto
-
-1. Clona el repositorio:
-   `git clone <URL del repositorio>`
-2. Sigue las instrucciones en la sección **Instalación** del archivo `README.md`.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
